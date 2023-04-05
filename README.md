@@ -16,6 +16,14 @@ Scraping and collecting customer feedback and reviewing data from a third-party 
 *   Cleaning the text , Tokenization , Stopwords removal , Enrichment – POS tagging and Lemmatization.
 *   Sentiment Analysis using VADER.
 
+# Communicate Results
+
+<img src="Images/insights.PNG" width="1000" height="400">
+
+
+
+
+
 
 
 
